@@ -1,0 +1,21 @@
+{
+  "name": "media-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulJnr/media-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PaulJnr/media-server/issues"
+  },
+  "homepage": "https://github.com/PaulJnr/media-server#readme",
+  "description": ""
+}
